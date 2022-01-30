@@ -12,6 +12,7 @@ $ catkin_init_workspace
 ```
 - Make sure ball_chaser and my_robot are in the src directory of the catkin_ws
 ```
+$ cd ../
 $ catkin_make
 ```
 
